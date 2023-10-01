@@ -19,3 +19,4 @@ kornia==0.5.0
 webdataset
 packaging
 wldhx.yadisk-direct
+wget
